@@ -4,8 +4,7 @@
 The purpose of this project was to create a simple way for alien enthusiasts to analyze UFO sightings based on specific filters. 
 
 ## How to use this website. 
-To review UFO sightings based on a certain date, city, country, etc.. please enter your search terms in the appropriate field and click the button labeled "Filter Table"
-Upon clicking the button, the table will be reformatted to only show results matching your search terms. 
+To review UFO sightings based on a certain date, city, country, etc.. please enter your search terms in the appropriate field and press enter on you keyboard. Upon hitting enter, your page will refresh with the filtered reults.  
 
 ![alt text](https://github.com/zackarymeadows/UFOs/blob/main/search_boxes.png)
 
